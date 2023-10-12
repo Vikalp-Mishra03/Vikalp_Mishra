@@ -25,11 +25,8 @@ export const HeaderPhone = ({ menuOpen, setMenuOpen }) => {
 
 const NavContent = ({ setMenuOpen }) => (
     <>
-       
-            <img src={logo} alt="" />
-            <h2> Vikalp Mishra</h2>
-       
-
+        <img src={logo} alt="" />
+        <h2> Vikalp Mishra</h2>
         <div>
             <a onClick={() => setMenuOpen(false)} href="#home">
                 Home
