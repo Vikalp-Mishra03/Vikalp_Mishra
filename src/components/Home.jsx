@@ -1,7 +1,9 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import Typerwriter from 'typewriter-effect'
-import { BsArrowUpRight } from 'react-icons/bs'
+import { BsArrowUpRight, BsChevronDown } from 'react-icons/bs'
+import me from '../assets/me-removebg.png'
+
 export default function Home() {
     const animation = {
         h1: {
@@ -44,7 +46,10 @@ export default function Home() {
                     </article>
                 </div>
             </section>
-            <section></section>
+            <section>
+                <img src={me} alt="" />
+            </section>
+            <BsChevronDown/>
         </div>
     )
 }
