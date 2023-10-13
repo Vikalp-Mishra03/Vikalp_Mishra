@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import Typerwriter from 'typewriter-effect'
 import { BsArrowUpRight, BsChevronDown } from 'react-icons/bs'
-import me from '../assets/me-removebg.png'
+import me from '../assets/me-removebgg.png'
 
 export default function Home() {
     const animation = {
