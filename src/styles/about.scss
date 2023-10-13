@@ -1,0 +1,48 @@
+#about {
+    width: 100%;
+    height: 100vh;
+    padding: 8rem $p;
+
+    >h2 {
+        font: 700 2.5rem $text2;
+        width: fit-content;
+        border-bottom: 1px solid $color6_1;
+        padding: 0.5rem;
+        margin: auto;
+    }
+
+    >section {
+        margin-top: 4rem;
+        width: 100%;
+        height: 100%;
+        background-color: $color4;
+        display: flex;
+        align-items: center;
+        box-shadow: 0px 3px 17px 2px rgba(0, 0, 0, 0.15);
+        justify-content: space-around;
+        border-radius: 5px;
+
+        img {
+            width: 17vmax;
+            animation: animateLogo 1.5s infinite linear alternate;
+        }
+
+        div {
+            width: 35vmax;
+
+            p {
+                font-family: $text3;
+                line-height: 25px;
+                letter-spacing: 1px;
+            }
+
+            h3 {
+                margin: 1rem 0;
+            }
+
+            li {
+                font-family: $text3;
+            }
+        }
+    }
+}
