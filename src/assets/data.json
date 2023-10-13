@@ -3,39 +3,37 @@
     {
       "date": "07/10/2022",
       "title": "TECHY STAR",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://reactone-nine.vercel.app",
+      "description": "Designed an engaging, responsive website with dynamic elements. Demonstrated proficiency in React Router and utilized modern web technologies for a seamless user experience.",
+      "url": "https://techystar-nrce6lzdg-vikalp-mishra03.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
     },
-
     {
       "date": "11/10/2022",
-      "title": "VIDEO HUB",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-video-app-eight.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      "title": "Eduford",
+      "description": "Designed dynamic blog & university website with responsive design, engaging content, and user-friendly features.  while the website offers easy navigation, course info, and campus details.",
+      "url": "https://stupendous-melomakarona-9e4dc4.netlify.app/",
+      "imgSrc": "https://images.pexels.com/photos/159514/yale-university-landscape-universities-schools-159514.jpeg"
     },
     {
       "date": "15/10/2022",
       "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
+      "description": "Developed a real-time cryptocurrency web app in React with exchange details, market data, and user-friendly design. Employed Axios, Chakra UI, and Charts for robust functionality.",
+      "url": "https://chic-custard-2af3fd.netlify.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
     },
-
     {
       "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
+      "title": "Vampire Store",
+      "description": "Created a polished product image carousel with intuitive scrolling and a robust user registration system. Designed a comprehensive footer with essential links and seamless social media integration to enhance user engagement.",
+      "url": "https://delicate-tiramisu-0f7177.netlify.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
     },
     {
       "date": "20/10/2022",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      "title": "Employee Management System",
+      "description": "Created an Employee Management System in React for streamlined employee data management. Includes user-friendly features for adding, editing, and deleting records, with local storage for data persistence.",
+      "url": "https://form-irqr-8gnlr3oot-vikalp-mishra03.vercel.app/",
+      "imgSrc": "https://images.pexels.com/photos/5239790/pexels-photo-5239790.jpeg"
     }
   ]
 }
