@@ -18,8 +18,8 @@ export default function About() {
                     <li>Chakra UI</li>
 
                 </div>
-
             </section>
+            {/* <Days /> */}
         </div>
     )
 }
